@@ -10,6 +10,7 @@ Install any package with `/package install <url>`.
 - [easking](https://github.com/miberss/easking) provides easing functions for animation and interpolation.
 - [taSK](https://github.com/YouCanDream/taSK) adds a task system for managing content work.
 - [skolor](https://github.com/miberss/skolor) hsl, hsv, and color manipulation
+- [pacskage-browser](https://github.com/miberss/pacskage-browser) easily browse github pacskages in-game
 
 ## Adding a package
 
