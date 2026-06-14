@@ -9,6 +9,7 @@ Install any package with `/package install <url>`.
 - [skript-bindables](https://github.com/miberss/skript-bindables) holds values that run callbacks when they change.
 - [easking](https://github.com/miberss/easking) provides easing functions for animation and interpolation.
 - [taSK](https://github.com/YouCanDream/taSK) adds a task system for managing content work.
+- [skolor](https://github.com/miberss/skolor) hsl, hsv, and color manipulation
 
 ## Adding a package
 
