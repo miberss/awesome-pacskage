@@ -12,6 +12,7 @@ Install any package with `/package install <url>`.
 - [skolor](https://github.com/miberss/skolor) hsl, hsv, and color manipulation
 - [pacskage-browser](https://github.com/miberss/pacskage-browser) easily browse github pacskages in-game
 - [skttp](https://github.com/miberss/skttp) http requests, get post rest and webhooks
+- [tweena](https://github.com/miberss/tweena) tweening value capability for animations
 
 ## Adding a package
 
