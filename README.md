@@ -13,6 +13,7 @@ Install any package with `/package install <url>`.
 - [pacskage-browser](https://github.com/miberss/pacskage-browser) easily browse github pacskages in-game
 - [skttp](https://github.com/miberss/skttp) http requests, get post rest and webhooks
 - [tweena](https://github.com/miberss/tweena) tweening value capability for animations
+- [2D-Scene-Renderer](https://github.com/Brian91712/2D-Scene-Renderer) text display screen rendering
 
 ## Adding a package
 
