@@ -19,6 +19,7 @@ Install any package with `/package install <url>`.
 - [streask](https://github.com/miberss/streask) streaks, for kill streaks, login streaks
 - [hyde](https://github.com/miberss/hyde) simple command whitelist
 - [pacskage-reorder](https://github.com/devdinc/pacskage-reorder/) reorders packages in dependency order after package changes
+- [devdinc-skripts](https://github.com/devdinc/skripts) scoped variables, lambdas, runtime test framework
 
 ## Adding a package
 
